@@ -1,7 +1,19 @@
 #include <vector>
 #include "Hunter.h"
+#include "Trophy.h"
+#include "ElephantTrophy.h"
+#include "RinocerosTrophy.h"
+#include "LionTrophy.h"
 
-int maleLionCount()
+int Hunter::maleLionCount()
 {
-	return 0;
+	int result = 0;
+	for (Trophy* item : (this->trophies))
+	{
+		if (item->getSpecies() == Lion && ((LionTrophy*)item)->getSex() == Male)
+		{
+			++result;
+		}
+	}
+	return result;
 }

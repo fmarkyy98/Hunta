@@ -21,9 +21,33 @@
     <ClCompile Include="Hunter.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Trophy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ElephantTrophy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RinocerosTrophy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LionTrophy.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Hunter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Trophy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ElephantTrophy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RinocerosTrophy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LionTrophy.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -147,11 +147,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ElephantTrophy.cpp" />
     <ClCompile Include="Hunter.cpp" />
+    <ClCompile Include="LionTrophy.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="RinocerosTrophy.cpp" />
+    <ClCompile Include="Trophy.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ElephantTrophy.h" />
     <ClInclude Include="Hunter.h" />
+    <ClInclude Include="LionTrophy.h" />
+    <ClInclude Include="RinocerosTrophy.h" />
+    <ClInclude Include="Trophy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
