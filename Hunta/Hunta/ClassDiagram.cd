@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Trophy">
+    <Position X="6.75" Y="2.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAAAAIAAAAAAQAAAAAAAAQAABAA=</HashCode>
+      <FileName>Trophy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ElephantTrophy">
+    <Position X="4.75" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAACA=</HashCode>
+      <FileName>ElephantTrophy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hunter">
+    <Position X="8.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAEEAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>Hunter.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LionTrophy">
+    <Position X="7" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LionTrophy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RinocerosTrophy">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RinocerosTrophy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Date">
+    <Position X="4.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trophy.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Species">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Trophy.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Sex">
+    <Position X="7" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>LionTrophy.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

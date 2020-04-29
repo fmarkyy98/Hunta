@@ -24,7 +24,6 @@ protected:
 	int weigth;
 
 public:
-	Trophy();
 	Species getSpecies() const;
 };
 
