@@ -8,7 +8,7 @@
 int Hunter::maleLionCount()
 {
 	int result = 0;
-	for (Trophy* item : (this->trophies))
+	for (Trophy* item : this->trophies)
 	{
 		if (item->getSpecies() == Lion && ((LionTrophy*)item)->getSex() == Male)
 		{
